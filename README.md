@@ -1,6 +1,3 @@
-random ass shit
+![GitHub](https://img.shields.io/github/followers/miksuy?label=Follow&style=social)
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)  
-![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer!&center=true&color=blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=random+ass+shit!&center=true&color=blue)
